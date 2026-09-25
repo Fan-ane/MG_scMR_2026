@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this code or these derived tables, please cite the associated manuscript.
+title: Cell-type-resolved cis-eQTL prioritisation in myasthenia gravis
+type: software
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+repository-code: https://github.com/Fan-ane/MG_scMR_2026
