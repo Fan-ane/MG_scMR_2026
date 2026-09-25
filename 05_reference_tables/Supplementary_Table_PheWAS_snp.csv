@@ -1,0 +1,578 @@
+rsid,trait,pval,beta,odds_ratio,gene
+rs10410017,alkaline phosphatase measurement,1e-13,7.44,,MPV17L2
+rs10410017,alkaline phosphatase measurement,2e-14,0.0174,,MPV17L2
+rs11130310,type 2 diabetes mellitus,2e-21,,,SPCS1
+rs111625658,linoleic acid measurement,4e-11,,,HCG25
+rs111625658,linoleic acid measurement,5e-19,,,HCG25
+rs111625658,omega-6 polyunsaturated fatty acid measurement,3e-11,,,HCG25
+rs111625658,omega-6 polyunsaturated fatty acid measurement,4e-18,,,HCG25
+rs11227250,platelet count,2e-42,0.026088,,RNASEH2C
+rs11227250,platelet count,7e-43,,,RNASEH2C
+rs11227250,schizophrenia,2e-09,,0.95237,RNASEH2C
+rs1124952,PHF-tau measurement,2e-12,,,BCAS4
+rs1124952,PHF-tau measurement,7e-16,,,BCAS4
+rs1124952,neurofibrillary tangles measurement,8e-09,,,BCAS4
+rs116418977,intelligence,1e-08,0.033716097,,HIST1H3D
+rs12148472,body height,5e-19,0.0084,,CTSH
+rs12148472,platelet-derived growth factor receptor alpha measurement,4e-15,0.062302824,,CTSH
+rs1233579,inguinal hernia,3e-09,,1.11,"HIST1H2BL,HIST1H2BN"
+rs12435329,multiple sclerosis,1e-08,0.039,,ZFP36L1
+rs12435329,rheumatoid arthritis,6e-08,,1.0556958,ZFP36L1
+rs12943365,bitter alcoholic beverage consumption measurement,2e-07,0.0054,,EVI2A
+rs12943365,blood glucose amount,9e-11,0.0101,,EVI2A
+rs12943365,glomerular filtration rate,3e-10,6.317,,EVI2A
+rs12943365,monocyte count,9e-19,0.020459594,,EVI2A
+rs12943365,sex hormone-binding globulin measurement,4e-11,0.0200858,,EVI2A
+rs12943365,sex hormone-binding globulin measurement,6e-30,0.00923255,,EVI2A
+rs12943365,sex hormone-binding globulin measurement,6e-31,0.0104986,,EVI2A
+rs12943365,sexual dimorphism measurement,3e-13,,,EVI2A
+rs12943365,smoking initiation,1e-13,0.00662,,EVI2A
+rs12943365,type 2 diabetes mellitus,8e-12,0.0432,,EVI2A
+rs12944882,lymphocyte count,5e-10,0.0312328,,ORMDL3
+rs13191296,25-hydroxyvitamin D3 measurement,4e-15,,,HIST1H2BG
+rs13191296,lung carcinoma,1e-07,,1.1728821,HIST1H2BG
+rs13191296,nephrolithiasis,4e-08,,1.13,HIST1H2BG
+rs13191296,squamous cell lung carcinoma,3e-10,,1.26845,HIST1H2BG
+rs13191296,upper aerodigestive tract neoplasm,6e-11,,1.22,HIST1H2BG
+rs13191659,amount of iron in brain,1e-19,0.106264,,HFE
+rs13191659,amount of iron in brain,1e-30,0.133612,,HFE
+rs13191659,amount of iron in brain,2e-17,0.10124,,HFE
+rs13191659,amount of iron in brain,2e-37,0.143878,,HFE
+rs13191659,amount of iron in brain,3e-17,0.103398,,HFE
+rs13191659,body height,9e-27,0.0244552,,HFE
+rs13191659,diastolic blood pressure,1e-07,0.2996,,HFE
+rs13191659,erythrocyte volume,2e-264,0.66,,HFE
+rs13191659,iron amount,2e-135,0.34,,HFE
+rs13191659,serum iron amount,1e-14,0.2066,,HFE
+rs13191659,serum iron amount,2e-17,0.213,,HFE
+rs13191659,serum iron amount,3e-13,0.1928,,HFE
+rs13191659,serum iron amount,6e-16,0.199,,HFE
+rs13191659,serum iron amount,9e-15,0.2064,,HFE
+rs13191659,total iron binding capacity,2e-08,0.312,,HFE
+rs13196692,substance-related disorder,2e-15,,,BTN2A1
+rs13198716,25-hydroxyvitamin D3 measurement,2e-18,,,HIST1H4B
+rs13198716,body mass index,2e-07,0.0157099,,HIST1H4B
+rs13198716,body mass index,3e-08,0.0214915,,HIST1H4B
+rs13198716,body mass index,8e-17,0.0278437,,HIST1H4B
+rs13198716,diastolic blood pressure,1e-10,0.2262,,HIST1H4B
+rs13198716,forced expiratory volume,1e-26,,,HIST1H4B
+rs13198716,forced expiratory volume,2e-25,0.0282166,,HIST1H4B
+rs13198716,intelligence,2e-09,0.08638,,HIST1H4B
+rs13198716,staphylococcus seropositivity,1e-08,5.704,,HIST1H4B
+rs13198716,streptococcus seropositivity,3e-10,6.286,,HIST1H4B
+rs13198716,streptococcus seropositivity,4e-09,5.871,,HIST1H4B
+rs13198716,streptococcus seropositivity,6e-11,6.545,,HIST1H4B
+rs13198716,vital capacity,6e-18,,,HIST1H4B
+rs13198716,waist circumference,5e-15,,,HIST1H4B
+rs13202592,SLAM family member 7 measurement,8e-15,0.057162937,,RP11-367G6.3
+rs13207082,Pain,4e-21,0.035,,HIST1H4H
+rs13207082,breast cancer,5e-11,,,HIST1H4H
+rs13207082,forced expiratory volume,6e-24,,,HIST1H4H
+rs13207082,hemoglobin measurement,1e-18,0.05285,,HIST1H4H
+rs13207082,hemoglobin measurement,2e-19,0.04789,,HIST1H4H
+rs13207082,major depressive disorder,5e-11,0.075,,HIST1H4H
+rs13207082,vital capacity,1e-15,,,HIST1H4H
+rs13217620,25-hydroxyvitamin D3 measurement,2e-10,,,ZNF322
+rs13217620,inguinal hernia,1e-09,,1.12,ZNF322
+rs13217620,intelligence,1e-19,,,ZNF322
+rs13217620,intelligence,5e-21,0.0401369,,ZNF322
+rs13217620,lung carcinoma,1e-10,,1.1495541,ZNF322
+rs13217620,lung carcinoma,3e-08,,1.1669619,ZNF322
+rs13217620,pelvis bone mineral density,8e-09,0.076,,ZNF322
+rs13217620,protein measurement,7e-24,0.4558,,ZNF322
+rs13217620,staphylococcus seropositivity,2e-09,6.015,,ZNF322
+rs13217620,trait in response to thiazide,2e-14,0.0579,,ZNF322
+rs13220495,blood protein amount,3e-13,0.4601015,,HIST1H2BB
+rs13220495,diastolic blood pressure,8e-13,0.3191,,HIST1H2BB
+rs13220495,protein measurement,1e-44,0.6207,,HIST1H2BB
+rs13220495,squamous cell lung carcinoma,3e-08,,1.2138206,HIST1H2BB
+rs1378358,25-hydroxyvitamin D3 measurement,8e-19,,,KANSL1-AS1
+rs1378358,Headache,5e-10,,,KANSL1-AS1
+rs1378358,cortical thickness,2e-06,0.0413,,KANSL1-AS1
+rs1378358,cortical thickness,2e-09,0.0518,,KANSL1-AS1
+rs1378358,cortical thickness,3e-08,0.0477,,KANSL1-AS1
+rs1378358,cortical thickness,3e-08,0.0481,,KANSL1-AS1
+rs1378358,cortical thickness,4e-07,0.044,,KANSL1-AS1
+rs1378358,cortical thickness,6e-11,0.0565,,KANSL1-AS1
+rs1378358,cortical thickness,8e-15,0.0672,,KANSL1-AS1
+rs1378358,feeling miserable measurement,2e-11,6.69,,KANSL1-AS1
+rs1378358,hypertrophic cardiomyopathy,5e-13,,1.3376309,KANSL1-AS1
+rs1378358,hypertrophic cardiomyopathy,7e-16,,1.2813549,KANSL1-AS1
+rs1378358,neuroticism measurement,2e-18,0.019632332,,KANSL1-AS1
+rs1378358,neuroticism measurement,2e-27,10.86,,KANSL1-AS1
+rs1378358,total cortical area measurement,1e-31,2.0049,,KANSL1-AS1
+rs1378358,worry measurement,2e-08,5.619,,KANSL1-AS1
+rs139757732,chronotype measurement,3e-08,0.029,,HIST1H4I
+rs139757732,susceptibility to shingles measurement,6e-07,0.1474,,HIST1H4I
+rs140522,"5,6-dihydrothymine measurement",1e-14,0.087673225,,TYMP
+rs140522,"5,6-dihydrothymine measurement",2e-11,0.11,,TYMP
+rs140522,"5,6-dihydrothymine measurement",3e-16,0.16,,TYMP
+rs140522,"chromosome, telomeric region length",7e-55,0.0331134,,TYMP
+rs140522,2'-deoxyuridine measurement,2e-32,0.147,,TYMP
+rs140522,2'-deoxyuridine measurement,4e-57,0.0563,,TYMP
+rs140522,B-cell chronic lymphocytic leukemia,3e-09,,1.15,TYMP
+rs140522,B-cell chronic lymphocytic leukemia,6e-11,,1.1084018,TYMP
+rs140522,diffuse large B-cell lymphoma,2e-08,,1.0869565,TYMP
+rs140522,erythrocyte attribute,2e-17,0.0642119,,TYMP
+rs140522,erythrocyte count,1e-08,,,TYMP
+rs140522,erythrocyte count,1e-108,0.05945,,TYMP
+rs140522,erythrocyte count,1e-30,0.02936,,TYMP
+rs140522,erythrocyte count,2e-17,0.0298793,,TYMP
+rs140522,erythrocyte count,2e-43,0.05229666,,TYMP
+rs140522,erythrocyte count,4e-138,0.06834,,TYMP
+rs140522,erythrocyte count,5e-121,0.0400871,,TYMP
+rs140522,erythrocyte count,5e-129,,,TYMP
+rs140522,erythrocyte count,5e-55,0.04064,,TYMP
+rs140522,erythrocyte count,6e-104,0.04,,TYMP
+rs140522,erythrocyte count,7e-102,0.051960487,,TYMP
+rs140522,erythrocyte count,8e-143,0.0339,,TYMP
+rs140522,erythrocyte volume,1e-06,0.0032,,TYMP
+rs140522,erythrocyte volume,1e-14,0.29,,TYMP
+rs140522,erythrocyte volume,1e-221,0.37,,TYMP
+rs140522,erythrocyte volume,2e-129,0.09079684,,TYMP
+rs140522,erythrocyte volume,2e-295,0.0785,,TYMP
+rs140522,erythrocyte volume,2e-57,0.0926467,,TYMP
+rs140522,erythrocyte volume,3e-93,0.08188158,,TYMP
+rs140522,erythrocyte volume,4e-17,,,TYMP
+rs140522,erythrocyte volume,5e-23,0.287,,TYMP
+rs140522,erythrocyte volume,6e-54,0.07375,,TYMP
+rs140522,hemoglobin measurement,3e-18,0.0649923,,TYMP
+rs140522,mean corpuscular hemoglobin concentration,0,,,TYMP
+rs140522,mean corpuscular hemoglobin concentration,2e-307,0.1093,,TYMP
+rs140522,mean corpuscular hemoglobin concentration,6e-298,0.075461,,TYMP
+rs140522,mean corpuscular hemoglobin,1e-10,0.1,,TYMP
+rs140522,mean corpuscular hemoglobin,1e-251,,,TYMP
+rs140522,mean corpuscular hemoglobin,1e-35,0.048831694,,TYMP
+rs140522,mean corpuscular hemoglobin,2e-247,0.06410468,,TYMP
+rs140522,mean corpuscular hemoglobin,3e-94,0.07741638,,TYMP
+rs140522,mean corpuscular hemoglobin,6e-220,0.0677,,TYMP
+rs140522,mean reticulocyte volume,5e-76,0.07582549,,TYMP
+rs140522,monocyte count,6e-13,0.02344,,TYMP
+rs140522,monocyte percentage of leukocytes,9e-17,0.015974242,,TYMP
+rs140522,multiple sclerosis,1e-21,,1.1158223,TYMP
+rs140522,multiple sclerosis,2e-08,,1.1,TYMP
+rs140522,red blood cell density,1e-151,0.054231,,TYMP
+rs140522,red blood cell density,2e-16,0.033794,,TYMP
+rs140522,red blood cell density,5e-165,,,TYMP
+rs140522,red cell distribution width,1e-14,0.0320085,,TYMP
+rs140522,red cell distribution width,1e-19,0.02491,,TYMP
+rs140522,red cell distribution width,2e-38,0.03648,,TYMP
+rs140522,red cell distribution width,4e-61,0.04596,,TYMP
+rs140522,reticulocyte amount,1e-14,0.018388445,,TYMP
+rs140522,reticulocyte amount,1e-33,0.028906891,,TYMP
+rs140522,reticulocyte amount,3e-28,0.022133611,,TYMP
+rs140522,reticulocyte count,1e-62,0.039950635,,TYMP
+rs140522,reticulocyte count,3e-16,0.03130561,,TYMP
+rs140522,reticulocyte count,5e-23,0.01936716,,TYMP
+rs140522,reticulocyte count,8e-29,0.026521651,,TYMP
+rs17129778,hypothyroidism,1e-08,,,IL12RB2
+rs17186084,platelet volume,1e-14,,,KB-1980E6.3
+rs17186084,platelet volume,2e-16,0.028297,,KB-1980E6.3
+rs17186084,platelet volume,8e-11,0.026244838,,KB-1980E6.3
+rs1794279,body mass index,3e-16,0.0257447,,ZBTB9
+rs1794279,diet measurement,2e-11,0.043,,ZBTB9
+rs1794279,linoleic acid measurement,1e-14,,,ZBTB9
+rs1794279,omega-3 polyunsaturated fatty acid measurement,3e-11,,,ZBTB9
+rs1794279,omega-6 polyunsaturated fatty acid measurement,2e-15,,,ZBTB9
+rs1819333,Crohn disease,2e-19,,1.1177828,RNASET2
+rs1819333,Crohn disease,2e-20,,,RNASET2
+rs1819333,inflammatory bowel disease,1e-06,,,RNASET2
+rs1819333,inflammatory bowel disease,7e-21,,1.081,RNASET2
+rs1819333,inflammatory bowel disease,9e-15,,,RNASET2
+rs199750,acute myeloid leukemia,1e-09,,,RP11-457M11.5
+rs199750,acute myeloid leukemia,2e-06,,,RP11-457M11.5
+rs2023463,25-hydroxyvitamin D3 measurement,8e-10,,,SCAND3
+rs2023463,brain attribute,2e-33,,,SCAND3
+rs2023463,cystatin c measurement,9e-12,,,SCAND3
+rs2023463,glomerular filtration rate,1e-11,1.01,,SCAND3
+rs2227312,eosinophil count,9e-16,,,TNFRSF14
+rs2227312,eosinophil percentage of leukocytes,2e-16,0.015874004,,TNFRSF14
+rs2227312,tumor necrosis factor receptor superfamily member 14 amount,2e-75,0.099513635,,TNFRSF14
+rs2239535,body height,1e-17,0.0178626,,YWHAB
+rs2239535,health trait,5e-11,0.00834585,,YWHAB
+rs2273558,intelligence,1e-10,6.407,,BTN2A1
+rs2273558,intelligence,7e-09,0.01853987,,BTN2A1
+rs2273558,leukocyte immunoglobulin-like receptor subfamily B member 4 measurement,8e-27,0.0599781,,BTN2A1
+rs2273558,neuroticism measurement,2e-08,0.009430085,,BTN2A1
+rs2289702,amount of iron in brain,3e-08,0.0614725,,CTSH
+rs2289702,amount of iron in brain,4e-16,0.0861263,,CTSH
+rs2289702,amount of iron in brain,6e-10,0.0692,,CTSH
+rs2289702,amount of iron in brain,8e-10,0.0679124,,CTSH
+rs2289702,amount of iron in brain,8e-22,0.10168,,CTSH
+rs2289702,amount of iron in brain,9e-10,0.066812,,CTSH
+rs2289702,aspartate aminotransferase measurement,1e-18,0.0252,,CTSH
+rs2289702,aspartate aminotransferase measurement,4e-11,6.61,,CTSH
+rs2289702,aspartate aminotransferase measurement,4e-13,0.022310289,,CTSH
+rs2289702,basal cell carcinoma,2e-09,,1.074,CTSH
+rs2289702,basal cell carcinoma,3e-09,,1.09,CTSH
+rs2289702,basal cell carcinoma,7e-09,,1.0722,CTSH
+rs2289702,cathepsin H measurement,0,1.299,,CTSH
+rs2289702,cathepsin H measurement,7e-234,1.4784,,CTSH
+rs2289702,cathepsin L1 measurement,2e-12,0.061609503,,CTSH
+rs2289702,complement factor D measurement,4e-28,1.286985,,CTSH
+rs2289702,keratinocyte carcinoma,2e-07,,1.07,CTSH
+rs2289702,level of cathepsin H in blood serum,2e-86,1.018,,CTSH
+rs2289702,level of cathepsin H in blood,2e-73,1.0014896,,CTSH
+rs2289702,level of dipeptidyl aminopeptidase-like protein 6 in blood,2e-18,0.07352933,,CTSH
+rs2289702,level of lysosome-associated membrane glycoprotein 1 in blood serum,1e-22,0.0925959,,CTSH
+rs2289702,level of prosaposin in blood,2e-32,0.10628126,,CTSH
+rs2289702,narcolepsy-cataplexy syndrome,1e-09,,1.34,CTSH
+rs2289702,probable serine carboxypeptidase CPVL measurement,9e-16,0.037989818,,CTSH
+rs2289702,protein measurement,0,1.6683,,CTSH
+rs2289702,protein measurement,2e-264,1.5399,,CTSH
+rs2289702,protein measurement,4e-06,,,CTSH
+rs2289702,resistin measurement,4e-12,0.05829544,,CTSH
+rs2289702,type 1 diabetes mellitus,7e-11,,0.84,CTSH
+rs2525570,hemorrhoid,7e-10,,0.98,EVI2A
+rs2525570,level of cartilage oligomeric matrix protein in blood,1e-11,0.03583144,,EVI2A
+rs2525570,sex hormone-binding globulin measurement,1e-09,0.0072085,,EVI2A
+rs2525570,sex hormone-binding globulin measurement,4e-10,0.00877397,,EVI2A
+rs2525570,sex hormone-binding globulin measurement,8e-09,0.0188156,,EVI2A
+rs2525570,sex hormone-binding globulin measurement,8e-09,5.777,,EVI2A
+rs2525570,substance-related disorder,1e-10,6.424,,EVI2A
+rs2854334,alcohol consumption quality,8e-10,0.009220984,,EVI2A
+rs2854334,testosterone measurement,1e-08,0.0269601,,EVI2A
+rs2858310,c-reactive protein measurement,4e-12,,,DXO
+rs2894251,inguinal hernia,7e-09,,1.1,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,1e-08,5.669,,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,1e-11,6.786,,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,2e-09,5.995,,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,4e-08,5.501,,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,4e-08,5.514,,"HCG25,B3GALT4"
+rs2894251,staphylococcus seropositivity,5e-09,5.858,,"HCG25,B3GALT4"
+rs2894251,streptococcus seropositivity,2e-31,11.669,,"HCG25,B3GALT4"
+rs2894251,streptococcus seropositivity,8e-14,7.478,,"HCG25,B3GALT4"
+rs3117425,Anxiety,2e-08,0.02019,,PGBD1
+rs3117425,cognitive domain measurement,3e-12,0.0340128,,PGBD1
+rs3117425,feeling nervous measurement,5e-08,5.47,,PGBD1
+rs3117425,inguinal hernia,3e-09,,1.11,PGBD1
+rs3117425,substance-related disorder,6e-13,7.207,,PGBD1
+rs3118365,fatty acid amount,1e-10,,,"ZSCAN16,HIST1H2AM"
+rs3118365,inguinal hernia,8e-10,,1.12,"ZSCAN16,HIST1H2AM"
+rs3118365,urate measurement,6e-12,0.0459,,"ZSCAN16,HIST1H2AM"
+rs3118365,urate measurement,8e-29,0.0483,,"ZSCAN16,HIST1H2AM"
+rs3129120,inguinal hernia,2e-09,,1.11,PGBD1
+rs3129120,major depressive disorder,1e-10,,1.081081,PGBD1
+rs3129120,major depressive disorder,4e-07,,1.1049724,PGBD1
+rs3129120,streptococcus seropositivity,2e-12,7.068,,PGBD1
+rs3130380,intelligence,1e-08,0.07461,,HLA-G
+rs3130477,inguinal hernia,3e-08,,1.1,DXO
+rs3130477,streptococcus seropositivity,3e-13,7.281,,DXO
+rs3130477,streptococcus seropositivity,7e-20,9.126,,DXO
+rs3131337,cognitive domain measurement,2e-11,0.0323167,,HIST1H3I
+rs3131337,inguinal hernia,2e-09,,1.11,HIST1H3I
+rs3131337,susceptibility to cold sores measurement,7e-06,0.0811,,HIST1H3I
+rs3131337,triglyceride measurement,1e-10,0.0188271,,HIST1H3I
+rs3131337,triglyceride measurement,1e-14,0.0229188,,HIST1H3I
+rs3132472,streptococcus seropositivity,4e-14,7.575,,HCG23
+rs3132685,25-hydroxyvitamin D3 measurement,3e-21,,,HCG15
+rs3132685,25-hydroxyvitamin D3 measurement,8e-11,,,HCG15
+rs3132685,Phospholipids:total lipids ratio,6e-09,0.0355211,,HCG15
+rs3132685,docosahexaenoic acid measurement,3e-08,,,HCG15
+rs3132685,docosahexaenoic acid measurement,3e-10,,,HCG15
+rs3132685,fatty acid amount,2e-08,0.033954,,HCG15
+rs3132685,fatty acid amount,2e-13,,,HCG15
+rs3132685,fatty acid amount,5e-13,,,HCG15
+rs3132685,fatty acid amount,5e-20,,,HCG15
+rs3132685,free cholesterol measurement,5e-10,0.0372621,,HCG15
+rs3132685,linoleic acid measurement,3e-14,,,HCG15
+rs3132685,linoleic acid measurement,3e-15,,,HCG15
+rs3132685,linoleic acid measurement,4e-21,,,HCG15
+rs3132685,lipid measurement,1e-10,0.0393348,,HCG15
+rs3132685,major depressive disorder,2e-13,0.0131,,HCG15
+rs3132685,major depressive disorder,4e-08,0.014299,,HCG15
+rs3132685,omega-3 polyunsaturated fatty acid measurement,2e-11,0.0394662,,HCG15
+rs3132685,omega-3 polyunsaturated fatty acid measurement,4e-12,,,HCG15
+rs3132685,omega-6 polyunsaturated fatty acid measurement,4e-14,,,HCG15
+rs3132685,omega-6 polyunsaturated fatty acid measurement,8e-14,,,HCG15
+rs3132685,omega-6 polyunsaturated fatty acid measurement,8e-20,,,HCG15
+rs3132685,phospholipid amount,5e-12,0.0418299,,HCG15
+rs3132685,polyunsaturated fatty acid measurement,1e-14,,,HCG15
+rs3132685,polyunsaturated fatty acid measurement,1e-15,,,HCG15
+rs3132685,polyunsaturated fatty acid measurement,6e-22,,,HCG15
+rs3132685,streptococcus seropositivity,2e-09,5.994,,HCG15
+rs3132685,streptococcus seropositivity,2e-13,7.323,,HCG15
+rs3132685,streptococcus seropositivity,7e-13,7.174,,HCG15
+rs3132685,taste liking measurement,9e-17,0.04665,,HCG15
+rs3132685,urate measurement,1e-17,0.0361,,HCG15
+rs3132685,urate measurement,4e-17,0.0361,,HCG15
+rs34007146,type 2 diabetes mellitus,3e-09,0.0336,,RNASEH2C
+rs34243448,Anxiety,2e-08,,,PRSS16
+rs34341922,platelet count,7e-21,0.021817796,,THEMIS2
+rs34593439,C-type lectin domain family 4 member K amount,7e-21,0.07410363,,CTSH
+rs34593439,aspartate aminotransferase measurement,1e-10,0.0264,,CTSH
+rs34593439,autoimmune disease,1e-14,,,CTSH
+rs34593439,cathepsin H measurement,3e-241,1.15,,CTSH
+rs34593439,celiac disease,2e-06,,1.1450393,CTSH
+rs34593439,complement C1q tumor necrosis factor-related protein 1 measurement,2e-12,0.16,,CTSH
+rs34593439,monocyte measurement,2e-16,0.0949405,,CTSH
+rs34593439,narcolepsy-cataplexy syndrome,8e-11,0.227,,CTSH
+rs34593439,protein measurement,1e-11,0.2591,,CTSH
+rs34593439,type 1 diabetes mellitus,9e-14,,1.2820514,CTSH
+rs34593439,type 2 diabetes mellitus,1e-11,,1.3066771,CTSH
+rs34788973,bone density,1e-300,,,HIST1H2AH
+rs34788973,fat pad mass,2e-09,0.0224904,,HIST1H2AH
+rs34788973,inguinal hernia,3e-09,,1.11,HIST1H2AH
+rs34788973,staphylococcus seropositivity,4e-09,5.88,,HIST1H2AH
+rs34788973,streptococcus seropositivity,3e-10,6.315,,HIST1H2AH
+rs34788973,streptococcus seropositivity,7e-12,6.867,,HIST1H2AH
+rs34788973,streptococcus seropositivity,7e-13,7.18,,HIST1H2AH
+rs34788973,trait in response to thiazide,2e-14,0.0564,,HIST1H2AH
+rs34843303,Alzheimer disease,9e-06,,,CTSH
+rs34843303,aspartate aminotransferase measurement,5e-13,0.0234,,CTSH
+rs34843303,protein measurement,3e-16,0.3456,,CTSH
+rs34864993,protein measurement,2e-11,0.2541,,HIST1H3B
+rs34965299,inguinal hernia,2e-09,,1.11,HIST1H4I
+rs34991172,"chromosome, telomeric region length",6e-09,0.061,,RP1-30M3.5
+rs34991172,25-hydroxyvitamin D3 measurement,3e-12,,,RP1-30M3.5
+rs34991172,intelligence,2e-07,5.191,,RP1-30M3.5
+rs34991172,saturated fatty acids to total fatty acids percentage ,1e-08,,,RP1-30M3.5
+rs34991172,saturated fatty acids to total fatty acids percentage ,4e-08,,,RP1-30M3.5
+rs35111391,erythrocyte volume,2e-09,0.54,,HIST1H2AH
+rs35111391,mean corpuscular hemoglobin,2e-16,0.3,,HIST1H2AH
+rs35144104,diet measurement,5e-23,,,ZBTB9
+rs35243068,25-hydroxyvitamin D3 measurement,5e-10,,,HIST1H3H
+rs35243068,25-hydroxyvitamin D3 measurement,6e-19,,,HIST1H3H
+rs35243068,polyunsaturated fatty acid measurement,7e-11,,,HIST1H3H
+rs35243068,streptococcus seropositivity,1e-11,6.758,,HIST1H3H
+rs35526527,BMI-adjusted waist-hip ratio,1e-12,0.0324805,,HIST1H2BG
+rs35736272,ankylosing spondylitis,6e-30,,,ORMDL3
+rs35848276,BMI-adjusted waist circumference,5e-11,0.0320218,,"HMGN4,HCG11"
+rs35848276,brain attribute,1e-18,,,"HMGN4,HCG11"
+rs35848276,inguinal hernia,1e-09,,1.12,"HMGN4,HCG11"
+rs35848276,level of ribonuclease T2 in blood,2e-57,0.11607979,,"HMGN4,HCG11"
+rs35848276,phospholipid amount,5e-09,0.0356078,,"HMGN4,HCG11"
+rs35848276,protein measurement,1e-28,0.4946,,"HMGN4,HCG11"
+rs35848276,protein measurement,1e-38,0.5757,,"HMGN4,HCG11"
+rs35848276,protein measurement,3e-11,0.2992,,"HMGN4,HCG11"
+rs35909544,Myopia,4e-08,0.0625,,HIST1H2BG
+rs35942569,level of disintegrin and metalloproteinase domain-containing protein 9 in blood,1e-20,0.07778905,,HIST1H2BG
+rs35942569,urate measurement,1e-19,0.0614,,HIST1H2BG
+rs35942569,urate measurement,4e-08,0.0569,,HIST1H2BG
+rs361725,"chromosome, telomeric region length",1e-10,,,TYMP
+rs361725,"chromosome, telomeric region length",1e-15,0.019,,TYMP
+rs361725,erythrocyte count,1e-16,0.04909,,TYMP
+rs361725,erythrocyte count,2e-17,0.05018,,TYMP
+rs361725,erythrocyte count,3e-52,0.04424,,TYMP
+rs361725,erythrocyte count,6e-47,0.04048,,TYMP
+rs361725,erythrocyte volume,1e-135,0.07685,,TYMP
+rs361725,erythrocyte volume,1e-22,0.05935,,TYMP
+rs361725,erythrocyte volume,2e-140,0.07953,,TYMP
+rs361725,erythrocyte volume,2e-152,0.08271,,TYMP
+rs361725,erythrocyte volume,4e-25,0.06188,,TYMP
+rs361725,erythrocyte volume,4e-26,0.06346,,TYMP
+rs361725,hematological measurement,1e-08,,,TYMP
+rs361725,hemoglobin measurement,9e-11,0.0548016,,TYMP
+rs361725,mean corpuscular hemoglobin concentration,1e-114,0.07271,,TYMP
+rs361725,mean corpuscular hemoglobin concentration,1e-17,0.05278,,TYMP
+rs361725,mean corpuscular hemoglobin concentration,2e-20,0.05664,,TYMP
+rs361725,mean corpuscular hemoglobin concentration,4e-99,0.06479,,TYMP
+rs361725,mean corpuscular hemoglobin concentration,5e-115,0.07292,,TYMP
+rs361725,monocyte count,3e-12,0.02233,,TYMP
+rs361725,monocyte count,8e-21,0.02928,,TYMP
+rs361725,monocyte count,9e-28,0.03595,,TYMP
+rs361725,monocyte percentage of leukocytes,2e-13,0.01690217,,TYMP
+rs361725,protein measurement,2e-31,0.2754,,TYMP
+rs3809822,granulocyte percentage of myeloid white cells,1e-10,0.02659254,,ACAP1
+rs3809822,monocyte percentage of leukocytes,2e-10,0.0264869,,ACAP1
+rs3825932,type 1 diabetes mellitus,3e-15,,1.16,CTSH
+rs3825932,type 1 diabetes mellitus,8e-08,,,CTSH
+rs4065275,QRS duration,2e-08,0.0167,,ORMDL3
+rs4065275,natural cytotoxicity triggering receptor 1 measurement,4e-31,0.059300147,,ORMDL3
+rs4065275,serum gamma-glutamyl transferase measurement,3e-10,0.0122,,ORMDL3
+rs433061,25-hydroxyvitamin D3 measurement,2e-18,,,HLA-DOA
+rs433061,inguinal hernia,2e-08,,1.1,HLA-DOA
+rs433061,omega-3 polyunsaturated fatty acid measurement,6e-10,,,HLA-DOA
+rs433061,protein measurement,4e-46,0.6066,,HLA-DOA
+rs433061,susceptibility to cold sores measurement,8e-06,0.0786,,HLA-DOA
+rs433061,wellbeing measurement,4e-17,0.012269953,,HLA-DOA
+rs4409785,ACPA-positive rheumatoid arthritis,2e-07,,0.92,SESN3
+rs4409785,Graves disease,1e-26,0.1634,,SESN3
+rs4409785,Graves disease,5e-06,,1.21,SESN3
+rs4409785,Graves disease,7e-09,0.2029,,SESN3
+rs4409785,Graves disease,8e-18,0.1469,,SESN3
+rs4409785,Thyroid preparation use measurement,2e-32,0.14306402,,SESN3
+rs4409785,Thyroid preparation use measurement,2e-35,0.1453,,SESN3
+rs4409785,autoimmune disease,4e-21,,,SESN3
+rs4409785,autoimmune thyroid disease,1e-24,,1.14,SESN3
+rs4409785,autoimmune thyroid disease,2e-31,,1.15,SESN3
+rs4409785,autoimmune thyroid disease,8e-08,,1.23,SESN3
+rs4409785,basal cell carcinoma,7e-23,,,SESN3
+rs4409785,eosinophil count,2e-11,0.019728245,,SESN3
+rs4409785,eosinophil count,3e-09,,,SESN3
+rs4409785,eosinophil count,4e-10,0.016435,,SESN3
+rs4409785,hypothyroidism,1e-17,0.07512,,SESN3
+rs4409785,hypothyroidism,2e-31,,,SESN3
+rs4409785,hypothyroidism,2e-31,0.1237798,,SESN3
+rs4409785,hypothyroidism,2e-56,0.099,,SESN3
+rs4409785,hypothyroidism,3e-17,0.07346,,SESN3
+rs4409785,hypothyroidism,4e-32,0.14550275,,SESN3
+rs4409785,hypothyroidism,5e-27,,1.12,SESN3
+rs4409785,hypothyroidism,5e-78,0.0851,,SESN3
+rs4409785,hypothyroidism,7e-22,0.06832,,SESN3
+rs4409785,hypothyroidism,8e-16,0.1069,,SESN3
+rs4409785,hypothyroidism,8e-23,0.07071,,SESN3
+rs4409785,hypothyroidism,8e-68,0.0828,,SESN3
+rs4409785,low density lipoprotein cholesterol measurement,6e-06,,,SESN3
+rs4409785,lymphocyte amount,8e-11,0.0610879,,SESN3
+rs4409785,multiple sclerosis,6e-07,,1.1,SESN3
+rs4409785,multiple sclerosis,7e-12,,1.0874293,SESN3
+rs4409785,myasthenia gravis,1e-11,,1.14168,SESN3
+rs4409785,myasthenia gravis,2e-07,,1.29,SESN3
+rs4409785,rheumatoid arthritis,1e-10,,1.1109328,SESN3
+rs4409785,rheumatoid arthritis,1e-11,,1.12,SESN3
+rs4409785,rheumatoid arthritis,3e-08,0.124011,,SESN3
+rs4409785,rheumatoid arthritis,3e-10,,1.0953785,SESN3
+rs4409785,rheumatoid arthritis,4e-09,,1.12,SESN3
+rs4409785,rheumatoid arthritis,6e-07,,0.94,SESN3
+rs4409785,rheumatoid arthritis,7e-08,,1.1052815,SESN3
+rs4409785,rheumatoid arthritis,8e-09,,0.91,SESN3
+rs4409785,rheumatoid arthritis,9e-07,,1.0870852,SESN3
+rs4409785,serum albumin amount,2e-10,0.0159,,SESN3
+rs4409785,sex hormone-binding globulin measurement,3e-08,1.02,,SESN3
+rs4409785,sex hormone-binding globulin measurement,3e-15,0.0262,,SESN3
+rs4409785,sex hormone-binding globulin measurement,5e-16,0.0328245,,SESN3
+rs4409785,skin neoplasm,2e-11,0.04774,,SESN3
+rs4409785,thyroid gland disorder,2e-14,0.08747,,SESN3
+rs4409785,thyroid gland disorder,3e-14,0.09173,,SESN3
+rs4409785,thyroid gland disorder,4e-15,0.08125,,SESN3
+rs4409785,thyroid gland disorder,7e-15,0.08517,,SESN3
+rs4409785,type 1 diabetes mellitus,2e-06,,1.1,SESN3
+rs4409785,tyrosine measurement,6e-15,0.02,,SESN3
+rs4409785,vitiligo,2e-13,,1.34,SESN3
+rs442694,fatty acid amount,2e-17,,,ZSCAN12
+rs442694,intelligence,2e-09,0.08197,,ZSCAN12
+rs442694,linoleic acid measurement,1e-08,,,ZSCAN12
+rs442694,linoleic acid measurement,1e-09,,,ZSCAN12
+rs442694,linoleic acid measurement,3e-08,,,ZSCAN12
+rs442694,omega-3 polyunsaturated fatty acid measurement,6e-13,,,ZSCAN12
+rs442694,omega-6 polyunsaturated fatty acid measurement,3e-08,,,ZSCAN12
+rs442694,omega-6 polyunsaturated fatty acid measurement,8e-09,,,ZSCAN12
+rs442694,polyunsaturated fatty acid measurement,2e-22,,,ZSCAN12
+rs442694,polyunsaturated fatty acid measurement,3e-10,,,ZSCAN12
+rs442694,polyunsaturated fatty acid measurement,6e-09,,,ZSCAN12
+rs442694,saturated fatty acids measurement ,6e-10,,,ZSCAN12
+rs45509595,breast carcinoma,5e-09,0.0684,,HIST1H2BJ
+rs45509595,depressive symptom measurement,2e-10,0.0227399,,HIST1H2BJ
+rs45509595,fatty acid amount,1e-09,,,HIST1H2BJ
+rs45509595,inguinal hernia,1e-09,,1.12,HIST1H2BJ
+rs45509595,saturated fatty acids to total fatty acids percentage ,3e-15,,,HIST1H2BJ
+rs4687629,memory performance,2e-07,5.226,,SPCS1
+rs4711112,heel bone mineral density,2e-13,0.0190246,,HIST1H2BF
+rs4711112,sexual dimorphism measurement,4e-08,,,HIST1H2BF
+rs4931,blood glucose amount,1e-12,0.0158,,YWHAB
+rs55834529,bipolar disorder,6e-17,,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,breast carcinoma,3e-09,0.071,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,fatty acid amount,7e-10,,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,major depressive disorder,3e-09,0.0114,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,polyunsaturated fatty acid measurement,7e-10,,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,schizophrenia,9e-27,,1.24,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55834529,susceptibility to urinary tract infection,1e-06,0.0635,,"HIST1H2BH,HIST1H4F,HIST1H2BF"
+rs55974014,handedness,3e-30,,0.9498902,KANSL1-AS1
+rs56328224,COVID-19 symptoms measurement,1e-10,0.0895,,KANSL1-AS1
+rs56328224,cerebral cortex area attribute,3e-09,0.0465,,KANSL1-AS1
+rs56328224,cerebral cortex area attribute,5e-13,0.0568,,KANSL1-AS1
+rs56328224,cognitive domain measurement,2e-11,0.0273427,,KANSL1-AS1
+rs56328224,cortical thickness,1e-11,0.0578,,KANSL1-AS1
+rs57440165,25-hydroxyvitamin D3 measurement,2e-17,,,"HIST1H2BE,HIST1H2AB"
+rs57440165,body mass index,1e-15,0.0268314,,"HIST1H2BE,HIST1H2AB"
+rs57440165,major depressive disorder,6e-16,,,"HIST1H2BE,HIST1H2AB"
+rs57440165,major depressive disorder,6e-24,,,"HIST1H2BE,HIST1H2AB"
+rs57440165,streptococcus seropositivity,2e-08,5.624,,"HIST1H2BE,HIST1H2AB"
+rs57440165,streptococcus seropositivity,8e-10,6.14,,"HIST1H2BE,HIST1H2AB"
+rs57440165,urate measurement,4e-15,0.0603,,"HIST1H2BE,HIST1H2AB"
+rs6031847,14-3-3 protein beta/alpha measurement,3e-87,0.534681,,YWHAB
+rs6031847,body mass index,1e-09,0.0141727,,YWHAB
+rs6031847,body mass index,5e-11,,,YWHAB
+rs6031847,body weight,1e-13,0.015,,YWHAB
+rs6031847,platelet volume,2e-41,0.024822008,,YWHAB
+rs6031847,serum albumin amount,8e-17,0.0207,,YWHAB
+rs6031847,serum albumin amount,9e-24,0.0213,,YWHAB
+rs66975207,major depressive disorder,1e-09,,1.081081,"HIST1H2BB,PRSS16,HIST1H3D"
+rs66975207,major depressive disorder,2e-11,0.03414969,,"HIST1H2BB,PRSS16,HIST1H3D"
+rs66975207,major depressive disorder,7e-09,0.0111,,"HIST1H2BB,PRSS16,HIST1H3D"
+rs66975207,omega-3 polyunsaturated fatty acid measurement,7e-10,,,"HIST1H2BB,PRSS16,HIST1H3D"
+rs66975207,streptococcus seropositivity,3e-10,6.318,,"HIST1H2BB,PRSS16,HIST1H3D"
+rs66975207,urate measurement,7e-36,0.0569,,"HIST1H2BB,PRSS16,HIST1H3D"
+rs67092078,fatty acid amount,2e-10,,,"HIST1H2BI,HIST1H2BC"
+rs67998226,Anxiety,1e-08,,,ZNF391
+rs71335276,complement factor D measurement,2e-107,0.15663259,,CFD
+rs71335276,complement factor D measurement,2e-11,0.23,,CFD
+rs71335276,complement factor D measurement,4e-24,0.168,,CFD
+rs71335276,protein measurement,4e-178,0.7006,,CFD
+rs72839445,BMI-adjusted waist circumference,1e-08,0.028202,,HIST1H2BI
+rs72839445,linoleic acid measurement,3e-08,,,HIST1H2BI
+rs72839445,polyunsaturated fatty acid measurement,5e-09,,,HIST1H2BI
+rs72839445,trait in response to thiazide,5e-14,0.0563,,HIST1H2BI
+rs72843784,interleukin-2 receptor subunit alpha measurement,9e-31,0.08075898,,"HIST1H2AB,RP11-457M11.5,HIST1H4A"
+rs72843784,protein measurement,6e-23,0.4415,,"HIST1H2AB,RP11-457M11.5,HIST1H4A"
+rs72843784,upper aerodigestive tract neoplasm,8e-10,,1.19,"HIST1H2AB,RP11-457M11.5,HIST1H4A"
+rs73403143,level of MHC class I polypeptide-related sequence A in blood,2e-20,0.068209976,,"HIST1H3I,ZSCAN16"
+rs7356,platelet count,2e-33,0.022914,,THEMIS2
+rs7359623,JT interval,1e-12,0.0223,,ORMDL3
+rs7359623,allergic rhinitis,2e-16,,1.05,ORMDL3
+rs7359623,asthma,3e-38,,,ORMDL3
+rs7359623,atrial fibrillation,1e-10,0.009160811,,ORMDL3
+rs7359623,atrial fibrillation,1e-14,0.0451,,ORMDL3
+rs7359623,atrial fibrillation,2e-10,0.009,,ORMDL3
+rs7359623,atrial fibrillation,2e-38,0.0433,,ORMDL3
+rs7359623,depressive symptom measurement,1e-08,0.000851,,ORMDL3
+rs75564875,level of high mobility group protein 20A in blood serum,6e-20,1.115279,,CTSH
+rs77032877,polypeptide N-acetylgalactosaminyltransferase 1 measurement,5e-14,0.28,,AGER
+rs7748141,blood protein amount,2e-47,0.504487,,AGER
+rs7748141,dermatomyositis,3e-28,,2.17,AGER
+rs7763262,IgA glomerulonephritis,1e-10,,1.3,VPS52
+rs7763262,IgA glomerulonephritis,1e-30,,1.49,VPS52
+rs7763262,IgA glomerulonephritis,2e-38,,1.41,VPS52
+rs7763262,omega-6 polyunsaturated fatty acid measurement,8e-11,,,VPS52
+rs7763411,25-hydroxyvitamin D3 measurement,1e-14,,,ZBTB9
+rs7775835,Cholesteryl esters:total lipids ratio,5e-08,0.0321912,,HIST1H3H
+rs7775835,Phospholipids:total lipids ratio,3e-08,0.0324682,,HIST1H3H
+rs7775835,intelligence,5e-12,0.08859,,HIST1H3H
+rs7775835,intelligence,9e-12,6.824,,HIST1H3H
+rs7775835,major depressive disorder,2e-08,5.588,,HIST1H3H
+rs7775835,staphylococcus seropositivity,1e-08,5.7,,HIST1H3H
+rs7775835,substance-related disorder,2e-13,7.369,,HIST1H3H
+rs7775835,verbal-numerical reasoning measurement,2e-17,,,HIST1H3H
+rs79449010,6-oxopiperidine-2-carboxylate measurement,2e-72,0.67,,ALDH7A1
+rs80264589,intelligence,8e-14,0.036985867,,U91328.19
+rs80264589,lung carcinoma,1e-08,,1.129989,U91328.19
+rs80264589,major depressive disorder,2e-11,0.075,,U91328.19
+rs80264589,upper aerodigestive tract neoplasm,5e-11,,1.2,U91328.19
+rs8067378,asthma,3e-41,,,ORMDL3
+rs8067378,cervical carcinoma,3e-06,,1.22,ORMDL3
+rs8067378,cervical carcinoma,9e-10,,1.19,ORMDL3
+rs8067378,primary biliary cholangitis,6e-14,,1.26,ORMDL3
+rs8067378,systemic lupus erythematosus,5e-23,0.076,,ORMDL3
+rs806798,secretogranin-3 measurement,8e-19,0.036432117,,RP11-457M11.5
+rs8356,base metabolic rate measurement,6e-19,0.011516323,,YWHAB
+rs8356,body mass index,2e-08,,,YWHAB
+rs8356,body mass index,3e-08,0.0117374,,YWHAB
+rs8356,body surface area,4e-17,0.00380608,,YWHAB
+rs8356,body weight,3e-15,0.0141,,YWHAB
+rs8356,body weight,8e-16,0.014476948,,YWHAB
+rs8356,fat pad mass,2e-12,0.014781237,,YWHAB
+rs8356,glucose measurement,2e-13,0.017609676,,YWHAB
+rs8356,hip circumference,7e-12,0.01444127,,YWHAB
+rs8356,neutrophil measurement,4e-09,0.0464664,,YWHAB
+rs8356,whole body water mass,2e-18,0.010802484,,YWHAB
+rs9257187,inguinal hernia,2e-09,,1.11,HIST1H2BL
+rs9257245,inguinal hernia,7e-10,,1.12,HIST1H3J
+rs9268208,25-hydroxyvitamin D3 measurement,5e-15,,,VPS52
+rs9268208,BMI-adjusted hip circumference,8e-09,0.0246281,,VPS52
+rs9268208,interleukin-23 measurement,6e-14,0.157,,VPS52
+rs9268219,body height,2e-185,0.0344,,ZBTB22
+rs9268219,fatty acid amount,2e-08,,,ZBTB22
+rs9268219,fatty acid amount,4e-09,,,ZBTB22
+rs9268219,hemoglobin measurement,2e-13,0.03754,,ZBTB22
+rs9268219,hemoglobin measurement,4e-17,0.04809,,ZBTB22
+rs9268219,omega-3 polyunsaturated fatty acid measurement,5e-11,,,ZBTB22
+rs9276757,eosinophil count,8e-30,,,ZBTB22
+rs9295778,smoking initiation,5e-27,0.0131,,"HIST1H2BL,HIST1H2BN"
+rs9366698,inguinal hernia,4e-09,,1.08,RP11-457M11.5
+rs9379945,"chromosome, telomeric region length",6e-06,0.0447,,HIST1H4B
+rs9379945,Alzheimer disease,5e-18,,1.2,HIST1H4B
+rs9379945,dental caries,1e-13,7.392,,HIST1H4B
+rs9379945,diet measurement,2e-09,0.03529,,HIST1H4B
+rs9379945,intelligence,3e-10,0.02720178,,HIST1H4B
+rs9379945,psoriasis,5e-15,0.123993,,HIST1H4B
