@@ -52,8 +52,12 @@ R version and package versions are recorded in `06_environment/sessionInfo.txt`.
 
 Public resources used (not redistributed here): OneK1K cis-eQTLs (https://onek1k.org/), the MG GWAS
 meta-analysis (GWAS Catalog GCST90432156), DICE (https://dice-database.org/), Open Targets,
-NHGRI-EBI GWAS Catalog, DSigDB and Enrichr. The in-house PBMC scRNA-seq dataset (3 healthy controls,
-4 patients) is deposited in GEO (accession to be inserted).
+NHGRI-EBI GWAS Catalog, DSigDB and Enrichr.
+
+The processed single-cell count matrices generated in this study (three healthy controls and four
+patients with myasthenia gravis) are archived at https://doi.org/10.5281/zenodo.22959640. Raw sequencing reads were
+not retained; the deposited matrices contain all data used for the single-cell analyses reported
+here. A GEO record of the same matrices may be added later.
 
 ## Licence
 
