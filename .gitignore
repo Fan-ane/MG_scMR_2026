@@ -1,0 +1,12 @@
+*.h5ad
+*.rds
+*.RDS
+*.mtx
+*.tsv.gz
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+data/mg_gwas/
+*.log
+__pycache__/
