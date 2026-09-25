@@ -1,0 +1,5 @@
+added_flank_kb,tested_postMHC_pairs,pairs_with_original_global_BH_q_below_005,pairs_with_recalculated_global_BH_q_below_005,distinct_significant_lead_rsids
+0,7328,39,39,33
+250,7322,37,37,31
+500,7311,36,36,30
+1000,7292,36,36,30

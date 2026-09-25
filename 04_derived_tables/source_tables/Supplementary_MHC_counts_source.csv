@@ -1,0 +1,9 @@
+stage,metric,value,metric_label
+Before MHC exclusion,tested_gene_cell_pairs,7852,Tested gene-cell pairs
+After MHC exclusion,tested_gene_cell_pairs,7328,Tested gene-cell pairs
+Before MHC exclusion,FDR_significant_pairs,396,Global FDR < 0.05
+After MHC exclusion,FDR_significant_pairs,39,Global FDR < 0.05
+Before MHC exclusion,unique_lead_variants,5836,unique_lead_variants
+After MHC exclusion,unique_lead_variants,5430,unique_lead_variants
+After MHC exclusion,significant_unique_lead_variants,33,significant_unique_lead_variants
+After MHC exclusion,significant_physical_loci_1Mb,13,significant_physical_loci_1Mb

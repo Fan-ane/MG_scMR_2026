@@ -1,0 +1,3 @@
+﻿scenario,unresolved_pair_rule,locus_count,interpretation
+Observed-support sensitivity,Use maximum available EUR-subpopulation r2=0.055765,13,Interim; not pooled-EUR PLINK
+Conservative forced-merge sensitivity,Force rs3893044 and rs12453217 into one locus (r2=1),13,Worst-case dependency bound

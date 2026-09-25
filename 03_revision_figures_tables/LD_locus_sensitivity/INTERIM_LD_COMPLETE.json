@@ -1,0 +1,15 @@
+{
+  "locked_gene_cell_pairs": 39,
+  "lead_variants": 33,
+  "pooled_EUR_pairwise_evaluable": 54,
+  "required_pairs": 55,
+  "unresolved_pair": "rs3893044-rs12453217",
+  "maximum_available_EUR_subpopulation_r2": 0.055765,
+  "observed_support_loci": 13,
+  "conservative_forced_merge_loci": 13,
+  "reportable_interim_range": [
+    13,
+    13
+  ],
+  "analysis_label": "LD-based sensitivity analysis; NOT PLINK clumping"
+}

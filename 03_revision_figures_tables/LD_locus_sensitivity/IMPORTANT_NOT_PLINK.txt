@@ -1,0 +1,1 @@
+These outputs are Ensembl/1000G-EUR LD-based sensitivity analyses. They are not PLINK clumping results and must not be labelled as PLINK.

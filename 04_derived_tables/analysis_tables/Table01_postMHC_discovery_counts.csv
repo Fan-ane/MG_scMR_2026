@@ -1,0 +1,4 @@
+discovery_set,gene_cell_pairs,distinct_lead_variants,position_based_1Mb_loci,LD_independent_loci,LD_clump_status
+MR_global_FDR005,39,33,13,,NOT_RUN
+Coloc_PP_H4_gt_050,34,28,12,,NOT_RUN
+Coloc_PP_H4_gt_080,31,25,12,,NOT_RUN

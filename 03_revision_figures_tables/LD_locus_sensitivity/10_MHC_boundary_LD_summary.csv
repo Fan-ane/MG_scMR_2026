@@ -1,0 +1,4 @@
+﻿query_rsid,mhc_start_grch37,mhc_end_grch37,window_kb,n_all_LD_records,n_MHC_partners_evaluated,max_r2_with_MHC,max_r2_MHC_partner,max_r2_MHC_partner_pos,n_r2_ge_0_1,n_r2_ge_0_2,n_r2_ge_0_5,status
+rs13191296,25726063,33400644,500,439,217,0.965696,rs13201341,25822661,160,101,80,EVALUATED
+rs34991172,25726063,33400644,500,319,3,0.153467,rs17320614,25727921,3,0,0,EVALUATED
+rs116418977,25726063,33400644,500,265,0,,,,0,0,0,EVALUATED

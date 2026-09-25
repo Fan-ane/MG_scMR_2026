@@ -1,0 +1,4 @@
+analysis_unit,tested_units,FDR005_units,method,discovery_fraction,label
+Gene-cell pair,7328,39,BH across all gene-cell tests,0.00532205240174673,39/7328
+Lead variant,5430,35,"Simes within variant, then BH across variants",0.00644567219152855,35/5430
+Physical 1-Mb locus,720,10,"Simes within physical locus, then BH across loci",0.0138888888888889,10/720
