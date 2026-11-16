@@ -13,7 +13,7 @@ table, and the LD locus-consolidation analysis added during revision.
 | Folder | Contents |
 | --- | --- |
 | `01_genetic_pipeline/` | OneK1K cis-eQTL download, preprocessing, instrument selection, single-instrument Wald ratios, Bayesian colocalisation, DICE audit, PheWAS, drug annotation (`00`-`07`, R) |
-| `02_single_cell/` | In-house PBMC scRNA-seq: loading and QC, annotation-based sensitivity, donor-level pseudobulk, virtual knockout, figure code (R + Python) |
+| `02_single_cell/` | PBMC scRNA-seq of the Li et al. (2026) cohort: loading and QC, annotation-based sensitivity, donor-level pseudobulk, virtual knockout, figure code (R + Python) |
 | `03_revision_figures_tables/` | Revision-stage code: all main/supplementary figures and 15 analysis tables (`MG_V4_complete_figures_and_tables.R`) and the LD-based locus consolidation analysis |
 | `04_derived_tables/` | The 15 analysis tables, the per-panel source tables, and the delivery status files |
 | `05_reference_tables/` | Tables as first submitted (MR, colocalisation, DICE, PheWAS, drug annotation) |
@@ -31,16 +31,17 @@ colocalisation, and OneK1K correlations were converted to per-allele effects
 7,328 post-exclusion gene-cell type pairs; 39 pairs passed global Benjamini-Hochberg correction
 (13 LD-based loci) and 31 reached PP.H4 > 0.80. SESN3 was prioritised in CD4+ and CD8+
 naive/central memory T cells through the same lead variant (rs4409785). Disease-context evidence came
-from donor-level pseudobulk analysis of an in-house PBMC scRNA-seq dataset (3 healthy controls,
-4 patients) with exact donor-label permutation over all 35 allocations.
+from donor-level pseudobulk analysis of the PBMC scRNA-seq dataset from the Li et al. (2026)
+cohort (3 healthy controls, 4 patients) with exact donor-label permutation over all 35 allocations.
 
 ## How to reproduce
 
 1. `01_genetic_pipeline/00_download_data.R` - fetches the public input resources (see
    `docs/DATA_DICTIONARY.md`; the GWAS summary statistics are not redistributed here).
 2. `01_genetic_pipeline/00_run_pipeline.R` - runs `01` to `07` in order and writes the result tables.
-3. `02_single_cell/` - the scRNA-seq scripts are numbered in execution order; the raw 10x matrices
-   are deposited in GEO (accession in the manuscript).
+3. `02_single_cell/` – the scRNA-seq scripts are numbered in execution order.
+   The matrices used here derive from the Singleron 5′ dataset first reported
+   in Li et al. (2026); raw reads are archived in GSA-Human under HRA011723.
 4. `03_revision_figures_tables/MG_V4_complete_figures_and_tables.R` - regenerates all figures and the
    15 analysis tables of the revised manuscript from the intermediate objects produced in step 2.
 5. `03_revision_figures_tables/LD_locus_sensitivity/` - pairwise LD and locus consolidation
@@ -48,16 +49,29 @@ from donor-level pseudobulk analysis of an in-house PBMC scRNA-seq dataset (3 he
 
 R version and package versions are recorded in `06_environment/sessionInfo.txt`.
 
+
 ## Data availability
 
-Public resources used (not redistributed here): OneK1K cis-eQTLs (https://onek1k.org/), the MG GWAS
-meta-analysis (GWAS Catalog GCST90432156), DICE (https://dice-database.org/), Open Targets,
-NHGRI-EBI GWAS Catalog, DSigDB and Enrichr.
+Public resources used (not redistributed here): OneK1K cis-eQTLs
+(https://onek1k.org/), the MG GWAS meta-analysis (GWAS Catalog GCST90432156),
+DICE (https://dice-database.org/), Open Targets, NHGRI-EBI GWAS Catalog,
+DSigDB and Enrichr.
 
-The processed single-cell count matrices generated in this study (three healthy controls and four
-patients with myasthenia gravis) are archived at https://doi.org/10.5281/zenodo.22959640. Raw sequencing reads were
-not retained; the deposited matrices contain all data used for the single-cell analyses reported
-here. A GEO record of the same matrices may be added later.
+The single-cell RNA-seq data analysed here were first reported in Li et al.
+(Frontiers in Immunology, 2026; doi:10.3389/fimmu.2026.1813107) and were not
+generated for this study. Peripheral blood mononuclear cells from three healthy
+controls and four patients with myasthenia gravis were profiled with the
+Singleron 5' single-cell RNA-seq system (microwell chip), sequenced on an
+Illumina NovaSeq 6000 (150 bp paired-end) and processed with CeleScope
+(https://github.com/singleron-RD/CeleScope).
+
+Raw sequencing reads are deposited in the Genome Sequence Archive for Human
+(GSA-Human), National Genomics Data Center, China, under accession HRA011723
+(BioProject PRJCA040830), and are available through a Data Access Committee.
+
+Processed count matrices are provided at
+https://doi.org/10.5281/zenodo.22959640 for reproducibility; they are not the
+primary data archive.
 
 ## Licence
 
