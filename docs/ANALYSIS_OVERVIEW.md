@@ -15,8 +15,8 @@
 
 ## Stage 2 - single-cell disease context (`02_single_cell/`)
 
-`01_load_and_qc.R` loads the seven 10x matrices, applies donor-aware adaptive QC and scDblFinder, and
-writes the annotated object. The Python scripts (`06`-`11`, `ager_*`) run the donor-level comparisons
+`01_load_and_qc.R`  loads the count matrices for the seven samples, applies donor-aware adaptive QC and scDbFinder, and writes the annotated object.
+The Python scripts (`06`-`11`, `ager_*`) run the donor-level comparisons
 and the virtual knockout; `prepare_R_data.py` exports count matrices for the R analyses;
 `R_figure_4panel.R` and `make_reference_style_validation_figures.R` draw the single-cell panels.
 
